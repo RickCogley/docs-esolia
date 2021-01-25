@@ -16,6 +16,7 @@ toc: true
 ## Hyas?
 
 Doks is a [Hyas theme](https://gethyas.com/themes/doks/) build by the creator of Hyas.
+日本語
 
 ## Node.js?
 
